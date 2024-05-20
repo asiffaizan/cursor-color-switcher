@@ -1,3 +1,5 @@
+visit site: https://asiffaizan.github.io/cursor-color-switcher/
+
 first find-out is the pointer into the rectangle or not?✅
 
 now calculate that, are we in the right or left direction from the center ✅
